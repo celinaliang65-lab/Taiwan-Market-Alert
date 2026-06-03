@@ -1,4 +1,4 @@
-# 🇹🇼 Taiwan Market Alert｜台股大盤定時警報系統
+# Taiwan Market Alert｜台股大盤定時警報系統
 
 ## 系統說明
 
